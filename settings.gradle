@@ -1,0 +1,4 @@
+rootProject.name = 'JavaExamMicroservices'
+include 'send_login'
+include 'add_login'
+
